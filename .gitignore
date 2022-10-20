@@ -33,3 +33,12 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Common
+.env
+
+upload
+
+#npm files
+
+package-lock.json
